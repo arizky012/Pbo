@@ -6,6 +6,7 @@ class Author{
         this.name = name;
         this.email = email;
         this.gender = gender;
+        
     }
     private String getEmail() {
         return email;
