@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class Main{
     static Scanner arzk = new Scanner(System.in);
     static int input;
