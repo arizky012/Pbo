@@ -17,4 +17,8 @@ class Author{
     private String getName() {
         return name;
     }
+    @Override
+    public String toString(){
+        String a = getName() + " email : " + getEmail() + " gender : "+ getGender();
+    return a;
 }
